@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soft.Taxas.Dominio", "Soft.Taxas.Dominio\Soft.Taxas.Dominio.csproj", "{DE0CDF98-63D6-4B76-805B-A3A0B4039650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soft.Taxas.Tests", "Soft.Taxas.Tests\Soft.Taxas.Tests.csproj", "{3FFF6155-E36D-475D-BA0C-ABDD1DDCF09F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE0CDF98-63D6-4B76-805B-A3A0B4039650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0CDF98-63D6-4B76-805B-A3A0B4039650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0CDF98-63D6-4B76-805B-A3A0B4039650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0CDF98-63D6-4B76-805B-A3A0B4039650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFF6155-E36D-475D-BA0C-ABDD1DDCF09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFF6155-E36D-475D-BA0C-ABDD1DDCF09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFF6155-E36D-475D-BA0C-ABDD1DDCF09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFF6155-E36D-475D-BA0C-ABDD1DDCF09F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {338CFB4B-F349-4BE2-B0A6-6DF218012FA3}
+	EndGlobalSection
+EndGlobal
