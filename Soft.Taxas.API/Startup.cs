@@ -21,6 +21,8 @@ namespace Soft.Taxas.API
             services.AddScoped<ITaxasService, TaxasService>();
 
             services.AddControllers();
+
+            services.AddSwaggerGen();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -31,6 +33,13 @@ namespace Soft.Taxas.API
             }
 
             app.UseHttpsRedirection();
+
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "API TAXAS V1");
+                c.RoutePrefix = string.Empty;
+            });
 
             app.UseRouting();
 

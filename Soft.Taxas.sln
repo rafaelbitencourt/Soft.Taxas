@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soft.Taxas.Dominio", "Soft.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soft.Taxas.Tests", "Soft.Taxas.Tests\Soft.Taxas.Tests.csproj", "{3FFF6155-E36D-475D-BA0C-ABDD1DDCF09F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soft.Taxas.API", "Soft.Taxas.API\Soft.Taxas.API.csproj", "{E7C0439A-8547-48FB-B899-B664088EE7F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soft.Taxas.API", "Soft.Taxas.API\Soft.Taxas.API.csproj", "{E7C0439A-8547-48FB-B899-B664088EE7F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
