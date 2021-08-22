@@ -32,8 +32,6 @@ namespace Soft.Taxas.API
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
-
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
@@ -42,8 +40,6 @@ namespace Soft.Taxas.API
             });
 
             app.UseRouting();
-
-            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
