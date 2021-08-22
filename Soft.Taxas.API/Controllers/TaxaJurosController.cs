@@ -15,7 +15,7 @@ namespace Soft.Taxas.API.Controllers
         }
 
         [HttpGet]
-        public string RecuperarTaxaDeJuros() => 
-            _taxasService.RecuperarTaxaDeJuros().ToString();
+        public IActionResult RecuperarTaxaDeJuros() =>
+            Ok(_taxasService.RecuperarTaxaDeJuros());
     }
 }
