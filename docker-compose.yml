@@ -3,5 +3,6 @@ version: "3.9"
 services:
   softtaxas:
     build: .
+    image: soft-taxas
     ports:
       - "8080:80"
