@@ -17,14 +17,12 @@ $ git clone <https://github.com/rafaelbitencourt/Soft.Taxas>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Soft.Taxas
 
-# Construir a aplicação usando Docker Compose
+# Construa a aplicação usando Docker Compose
 $ docker compose up
 
 # A API inciará na porta:8080 - acesse <http://localhost:8080>
 
 ```
-
-# Acesse a pasta do projeto no terminal/cmd
 
 ### 🛠 Tecnologias
 
