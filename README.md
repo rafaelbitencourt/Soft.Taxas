@@ -8,7 +8,7 @@ Instalações necessárias para rodar a aplicação localmente:
   - [Git](https://git-scm.com)
   - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
-### 🎲 Rodando a API
+### 🚀 Rodando a API
 
 ```bash
 # Clone este repositório
