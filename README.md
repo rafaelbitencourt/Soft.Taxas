@@ -38,8 +38,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 <a href="https://github.com/rafaelbitencourt/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/15696857?v=4" width="100px;" alt=""/>
- <br />
  <sub><b>Rafael Bitencourt</b></sub></a>
+ <br />
 
 Feito por Rafael Bitencourt 👋🏽 Entre em contato!
 
