@@ -38,9 +38,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 <a href="https://github.com/rafaelbitencourt/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/15696857?v=4" width="100px;" alt=""/>
- <sub><b>Rafael Bitencourt</b></sub></a>
  <br />
-
+ <sub><b>Rafael Bitencourt</b></sub></a>
+ 
+ 
 Feito por Rafael Bitencourt 👋🏽 Entre em contato!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bitencourt-642772123/)
