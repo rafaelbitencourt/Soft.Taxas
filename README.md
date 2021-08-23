@@ -1,6 +1,6 @@
 # API Soft.Taxas
 
-## API desenvolvida com .NET Core 3.1, com um método que retorna uma taxa de juros fixa de 1%, para atender a API Soft.CalculoJuros.
+## API desenvolvida com .NET Core 3.1, com objetivo de fornecer a taxa de juros de 1% para a [API Soft.CalculoJuros](https://github.com/rafaelbitencourt/Soft.CalculoJuros).
 
 ### Pré-requisitos
 
