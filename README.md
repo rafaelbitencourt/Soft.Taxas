@@ -33,3 +33,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Swagger](https://www.nuget.org/packages/swashbuckle.aspnetcore.swagger/)
 - [xUnit](https://xunit.net/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
+
+### Autor
+---
+
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/15696857?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Rafael Bitencourt</b></sub>
+
+Feito por Rafael Bitencourt 👋🏽 Entre em contato!
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/rafael-bitencourt-642772123/)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)(mailto:rafael_silbit@hotmail.com)
