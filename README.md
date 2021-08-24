@@ -20,7 +20,7 @@ $ cd Soft.Taxas
 # Construa a aplicação usando Docker Compose
 $ docker compose up
 
-# A API inciará na porta:8080 - acesse <http://localhost:8080>
+# A API iniciará na porta:8080 - acesse <http://localhost:8080>
 
 ```
 
