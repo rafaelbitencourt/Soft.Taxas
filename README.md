@@ -12,7 +12,7 @@ Instalações necessárias para rodar a aplicação localmente:
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/rafaelbitencourt/Soft.Taxas>
+$ git clone https://github.com/rafaelbitencourt/Soft.Taxas
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Soft.Taxas
