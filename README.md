@@ -18,7 +18,7 @@ $ git clone https://github.com/rafaelbitencourt/Soft.Taxas
 $ cd Soft.Taxas
 
 # Construa a aplicação usando Docker Compose
-$ docker compose up
+$ docker-compose up
 
 # A API iniciará na porta:8080 - acesse <http://localhost:8080>
 
